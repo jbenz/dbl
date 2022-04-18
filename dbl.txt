@@ -118,3 +118,4 @@ static.cdn.responsys.net
 cdn-settings.segment.com
 cdn.exoticads.com
 rtb.adgrx.com
+log.zoom.us
