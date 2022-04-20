@@ -119,3 +119,7 @@ cdn-settings.segment.com
 cdn.exoticads.com
 rtb.adgrx.com
 log.zoom.us
+digitalwikifies.com
+tracking.digitalwikifies.com
+i.info4.citi.com
+i.serviceemail2.citibank.com
