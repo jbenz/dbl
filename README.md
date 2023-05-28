@@ -2,6 +2,10 @@
 Domain Block List
 
 # Files
+
+Network Abuse List
 * abuse.txt
+Brute Force Attack List
 * brute.txt
-* ip.txt
+Comprehensive IP List
+* dbl.txt
