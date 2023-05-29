@@ -9,4 +9,4 @@ Known Network Abuse IP Lists from jbenz
 #### brute.txt
 
 ## Comprehensive IP List
-#### dbl.txt
+#### [dbl.txt](https://github.com/jbenz/dbl/blob/main/dbl.txt)
