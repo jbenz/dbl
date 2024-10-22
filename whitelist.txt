@@ -1,13 +1,7 @@
-benzgroup.net
-*.benzgroup.net
+benzgroup.us
+*.benzgroup.us
 3fifty.net
 *.3fifty.net
-3fiftyradio.com
-*.3fiftyradio.com
-madrot.com
-*.madrot.com
-pxlb.net
-*.pxlb.net
 meraki.com
 *.meraki.com
 cisco.com
