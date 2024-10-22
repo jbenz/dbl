@@ -1,3 +1,9 @@
+# ┌──────┐
+# │3fifty│
+# └──────┘
+# DOMAIN BLACKLIST from @jbenz
+# for use with Pi-Hole, AdGuard, AdGuardHome, Etc.
+# https://github.com/jbenz/dbl
 sonx.mediasearch.verizon.com
 device-metrics-us.amazon.com
 f.clarity.ms
