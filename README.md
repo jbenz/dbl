@@ -3,7 +3,11 @@
 
 # Files
 
+## IPv4 Network Block List (based on logged abuse and/or attacks).
 #### [networkblacklist.txt](https://raw.githubusercontent.com/jbenz/dbl/main/networkblacklist.txt)
+
+## Comprehensive Domain Block List (for use with Pi-Hole, AdGuard, AdGuardHome, etc.)
+#### [dbl.txt](https://raw.githubusercontent.com/jbenz/dbl/main/dbl.txt)
 
 # Archived
 
@@ -1397,5 +1401,4 @@ mail02.gsr-inc.com"	|	3544	|
 |	34.93.204.90	|	US, United States	|	90.204.93.34.bc.googleusercontent.com	|	3637	|
 
 
-## Comprehensive IP List
-#### [dbl.txt](https://raw.githubusercontent.com/jbenz/dbl/main/dbl.txt)
+
