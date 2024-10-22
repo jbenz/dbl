@@ -1,15 +1,18 @@
 > [!NOTE]
->  Known Network Abuse IP Lists from [@jbenz](https://github.com/jbenz/dbl)
+>  Known Network Abuse Lists from [@jbenz](https://github.com/jbenz/dbl)
 
 # Files
 
-## IPv4 Network Block List (based on logged abuse and/or attacks).
+## IPv4 Network Block List 
+> based on logged abuse and/or attacks.
 #### [networkblacklist.txt](https://raw.githubusercontent.com/jbenz/dbl/main/networkblacklist.txt)
 
-## Comprehensive Domain Block List (for use with Pi-Hole, AdGuard, AdGuardHome, etc.)
+## Comprehensive Domain Block List 
+> for use with Pi-Hole, AdGuard, AdGuardHome, etc.
 #### [dbl.txt](https://raw.githubusercontent.com/jbenz/dbl/main/dbl.txt)
 
-# Archived
+> [!ARCHIVED]
+> Historical lists no longer used or updated
 
 ## Network Abuse List
 #### [abuse.txt](https://raw.githubusercontent.com/jbenz/dbl/main/abuse.txt)
