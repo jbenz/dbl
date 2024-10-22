@@ -3,6 +3,10 @@
 
 # Files
 
+#### [networkblacklist.txt](https://raw.githubusercontent.com/jbenz/dbl/main/networkblacklist.txt)
+
+# Archived
+
 ## Network Abuse List
 #### [abuse.txt](https://raw.githubusercontent.com/jbenz/dbl/main/abuse.txt)
 
