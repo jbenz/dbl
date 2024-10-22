@@ -1,7 +1,7 @@
 > [!NOTE]
 >  Known Network Abuse Lists from [@jbenz](https://github.com/jbenz/dbl)
 
-# Files
+## Files
 
 ## IPv4 Network Block List 
 > based on logged abuse and/or attacks.
@@ -11,13 +11,19 @@
 > for use with Pi-Hole, AdGuard, AdGuardHome, etc.
 #### [dbl.txt](https://raw.githubusercontent.com/jbenz/dbl/main/dbl.txt)
 
-> [!ARCHIVED]
-> Historical lists no longer used or updated
+***
 
-## Network Abuse List
+> [!WARNING]
+> Archived lists no longer maintained
+
+<details>
+
+<summary>Archived lists no longer maintained</summary>
+
+### Network Abuse List
 #### [abuse.txt](https://raw.githubusercontent.com/jbenz/dbl/main/abuse.txt)
 
-## Brute Force Attack List
+### Brute Force Attack List
 #### [brute.txt](https://raw.githubusercontent.com/jbenz/dbl/main/brute.txt)
 
 |	ip	|	country	|	rdns	|	id	|
