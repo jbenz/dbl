@@ -1,9 +1,9 @@
-# 
 # ┌──────┐
 # │3fifty│  IP NETWORK BLACKLIST from @jbenz
 # └──────┘
 #           https://github.com/jbenz/dbl
-# 
+#           https://raw.githubusercontent.com/jbenz/dbl/refs/heads/main/networkblacklist.txt
+#
 #           Networks listed are based on known and verifiable abusive 
 #           and excessive network traffic from one or more network 
 #           addresses in the NetRange.
