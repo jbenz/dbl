@@ -9,11 +9,11 @@
 
 ## **Files**
 
-## IPv4 Network Block List 
-> based on logged abuse and/or attacks.
+## Comprehensive IPv4 Network Blacklist 
+> based on logged and verifiable abuse and/or attacks.
 #### [networkblacklist.txt](https://raw.githubusercontent.com/jbenz/dbl/main/networkblacklist.txt)
 
-## Comprehensive Domain Block List 
+## Domain Block List 
 > for use with Pi-Hole, AdGuard, AdGuardHome, etc.
 #### [dbl.txt](https://raw.githubusercontent.com/jbenz/dbl/main/dbl.txt)
 
