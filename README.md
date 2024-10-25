@@ -26,9 +26,6 @@
 
 <summary>Archived lists no longer maintained</summary>
 
-### Network Abuse List
-#### [abuse.txt](https://raw.githubusercontent.com/jbenz/dbl/main/abuse.txt)
-
 ### Brute Force Attack List
 #### [brute.txt](https://raw.githubusercontent.com/jbenz/dbl/main/brute.txt)
 
